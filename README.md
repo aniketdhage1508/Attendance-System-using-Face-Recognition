@@ -1,9 +1,4 @@
 # Attendance-System-using-Face-Recognition
-Certainly! Below is a detailed README for your GitHub repository:
-
----
-
-# Face Recognition Attendance System
 
 This project implements a Face Recognition Attendance System using Python, OpenCV, and face_recognition library. The system captures real-time video feed from a camera, detects faces, recognizes them by comparing with a pre-loaded database, and marks attendance in a CSV file.
 
@@ -68,11 +63,3 @@ This project implements a Face Recognition Attendance System using Python, OpenC
 
 - Ensure proper lighting conditions for accurate face recognition.
 - The script can be customized to connect with a database for more robust data management.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README according to your specific implementation and any additional features you might want to highlight.
